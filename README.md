@@ -58,8 +58,8 @@ The MNIST dataset is automatically downloaded using TensorFlow/Keras's built-in 
 
 
 #### Results
-The model achieves an accuracy of approximately 99.12% on the test dataset.
-Below is an example of predictions made by the model:
+**The model achieves an accuracy of approximately 99.12% on the test dataset.
+Below is an example of predictions made by the model:**
 
 <img width="712" alt="image" src="https://github.com/user-attachments/assets/9cd9b084-fc46-4e8e-a136-95c5abc63012" />
 
